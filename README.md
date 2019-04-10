@@ -1,2 +1,5 @@
 # hello-world
-Repo for CS464 assignment
+
+Hello!
+
+My name is Christina and I'm a student at Oregon State University.
